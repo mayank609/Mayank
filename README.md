@@ -25,7 +25,7 @@
 - 📚 Exploring: **CNNs, U-Net, Transformers, ViTs, Diffusion Models**
 - 🧠 Interested in: **AI Agents | Autonomous Systems | Robotics**
 - 🎯 Goal: **Become expert in AI + Robotics product development**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **mayankbansal0915@gmail.com**
 
 ---
 
